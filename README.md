@@ -23,24 +23,11 @@ The companion Arduino firmware for device operation is available at the
 `TCLab-Sketch repository <https://github.com/jckantor/TCLab-sketch>`_.
 
 
-Instalación
-------------
+Instalación Arduino
+--------------------
 
 El arduino debe tener instalado el programa para poder leer los nuevos sensores, cuyo repositorio esta disponible en 
 <https://github.com/sergioacg/TCLAB_CAE>
-
-Instalar usando ::
-
-   pip install tclab
-   
-To upgrade an existing installation, use the command ::
-
-   pip install tclab --upgrade
-
-
-The development version contains new features, but may be less stable. To install the development version use the command ::
-
-   pip install --upgrade https://github.com/jckantor/TCLab/archive/development.zip
 
 
 Configuración de hardware
