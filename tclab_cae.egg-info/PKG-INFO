@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: tclab-cae
-Version: 0.5.0
+Version: 0.5.2
 Summary: Python bindings for the BYU Arduino Temperature Control Lab and extended by Control Automatico Educación
 Home-page: https://github.com/sergioacg/TCLAB_PYTHON_CAE/tree/master
 Keywords: apmonitor control hardware
@@ -18,8 +18,8 @@ Provides-Extra: dev
 Provides-Extra: test
 
 # TCLAB_PYTHON_CAE
-TCLab: Temperature Control Laboratory
-=====================================
+TCLab_CAE: Temperature Control Laboratory Control Automático Educación
+=======================================================================
 
 
 ``TCLab_CAE`` proporciona una interfaz de Python modificada para el
@@ -42,24 +42,11 @@ The companion Arduino firmware for device operation is available at the
 `TCLab-Sketch repository <https://github.com/jckantor/TCLab-sketch>`_.
 
 
-Instalación
-------------
+Instalación Arduino
+--------------------
 
 El arduino debe tener instalado el programa para poder leer los nuevos sensores, cuyo repositorio esta disponible en 
 <https://github.com/sergioacg/TCLAB_CAE>
-
-Instalar usando ::
-
-   pip install tclab
-   
-To upgrade an existing installation, use the command ::
-
-   pip install tclab --upgrade
-
-
-The development version contains new features, but may be less stable. To install the development version use the command ::
-
-   pip install --upgrade https://github.com/jckantor/TCLab/archive/development.zip
 
 
 Configuración de hardware
