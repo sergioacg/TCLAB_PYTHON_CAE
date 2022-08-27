@@ -1,6 +1,6 @@
 # TCLAB_PYTHON_CAE
-TCLab: Temperature Control Laboratory
-=====================================
+TCLab_CAE: Temperature Control Laboratory Control Automático Educación
+=======================================================================
 
 
 ``TCLab_CAE`` proporciona una interfaz de Python modificada para el
